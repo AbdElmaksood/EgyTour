@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Egy Tour</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="cafe">cafés</string>
+    <string name="monuments">Monuments</string>
+    <string name="beaches">Beaches</string>
+    <string name="gouna">Just hours away from Cairo’s hustle and bustle lays the sunny Red Sea resort of El-Gouna. Whether you spend your time at one of the resort’s five star hotels or rent a small apartment overlooking the lively marina, El-Gouna is as close to paradise as you can get to in Egypt.</string>
+    <string name="taba">With picturesque scenery and year-round perfect weather conditions, Taba is one of the most alluring getaways on the Sinai Peninsula. Located on Egypt’s border with Israel, Taba’s lavish resorts allow visitors to enjoy breath-taking natural scenery that extends from bronze coloured mountains to the vibrant colours of the Red Sea.</string>
+    <string name="marsaallam">Nestled between the sea and mountains, Marsa Allam’s dive sites are alive, filled with rainbow-colored corals and a variety of underwater wildlife. For the less experienced divers, visitors can bask in the golden sun and enjoy breathtaking scenery. Activities, including glass-bottom boats and snorkeling also allow travelers to enjoy the wildlife.</string>
+    <string name="rasshitan">Ras Shitan, a popular diving destination in Egypt, is the perfect escape for anyone wanting to find peace, quiet and relaxation along the breath-taking waters of the Red Sea.</string>
+    <string name="sahlhashish">With its crystal clear waters and mountainous beauty, Sahl Hasheesh is booming as a modern resort town with a luxurious resort community.This wondrous paradise has 12 km of sandy beach front filled with beach huts and relaxing sun loungers.</string>
+    <string name="marsamatroh">The Mediterranean Sea’s jewel, Marsa Matrouh is secluded in a beach bay and protected from strong waves by a maze of rocks that act out as a natural barrier. It’s calm, tranquil and shimmering waters are unique amongst the Mediterranean Sea’s rough and powerful waves.</string>
+    <string name="elsokhna">Stuck in Cairo with and want a last-minute, pristine getaway where dolphins can be seen playing in the sea? Less than two hours away from the concrete jungle is Ain Sokhna. </string>
+    <string name="elfishawy">A must go when you are in Khan El-Khalili market. This place is full of lide in the evenings with mostly local patrons. Did not see too many tourist. The place is packed however turnaround is quite fast.
+
+Would recommened having a cup of tea while enjoying the local folk songs</string>
+    <string name="naguibmahfouz">Right in the heart of the Khan al Khalili market, crazy and overwhelming as it is (but a must-go in itself) sits this oasis from the past. Beautifully restored architectural gem of old Islamic Cairo AND it is the best Egyptian food to have.</string>
+    <string name="leftbank">Family gatherings, outings, working alone or even having a business meeting, it’s always a great place to be. The music is cool, view is remarkable, food is amazing and staff are so warm and friendly. Will always and forever be my favorite place in Egypt.</string>
+    <string name="beanos">staff are very warm and friendly. The cappuchino is delicious and the carrot cake is to die for; soft, moist and far too moreish for a healthy waist line. Ate lunch here twice and the food was good and a reasonable price. It was a quiet haven in a hectic schedule in a busy, bustling and noisy city.</string>
+    <string name="cakecafe">Quite a hidden gem. Tiny small two stores café. Very friendly staff. Good location. Tasty food either the sandwiches or the desserts. Amazing atmosphere. Great place to work or study.</string>
+    <string name="TempleofHatshepsut">The Mortuary temple of Hatshepsut, who ruled Egypt from around 1479 BC until her death in 1458 BC, is situated beneath the cliffs at Deir el Bahari on the west bank of the Nile. It is a colonnaded structure, which was designed and implemented by Senemut, the royal architect of Hatshepsut, to serve for her posthumous worship and to honor the glory of Amun.</string>
+    <string name="BentPyramid">The Bent Pyramid located at Dahshur was the second pyramid built by pharaoh Sneferu. Mysteriously, the pyramid rises from the desert at an angle of 55 degrees and then suddenly changes to a more gradual angle of 43 degrees. </string>
+    <string name="StepPyramidofDjoser">The Step Pyramid of Djoser at the Saqqara necropolis was the very first pyramid built by the ancient Egyptians. It was constructed during the 27th century BC for the burial of Pharaoh Djoser by his Vizier Imhotep. The ancient monument began as a traditional, flat-roofed mastaba but by the end of Djoser’s reign it had risen to a six stepped layer Pyramid and stood 204 feet (62 meters) high.</string>
+    <string name="LuxorTemple">The Luxor Temple is located on the east bank of the River Nile in the ancient city of Thebes and was founded in 1400 BC during the New Kingdom. The temple was dedicated to the three Egyptian gods Amun, Mut, and Chons. The ancient temple was the center of the festival of Opet, Thebes’ most important festival.</string>
+    <string name="GreatSphinx">Located at the Giza Plateau, The Great Sphinx is one of the largest and oldest monuments in the world, but basic facts about it, such as who was the model for the face, when it was built, and by whom, are still debated. It is the largest monolith statue in the world although it is considerably smaller than the Pyramids around it.</string>
+    <string name="RedPyramid">Built by Pharaoh Sneferu, the Red Pyramid is the world’s first successful attempt at constructing a “true” smooth-sided pyramid. At 104 meters it is the 4th highest pyramid ever built in Egypt. What really makes the Red Pyramid special today is the lack of crowds that plagues the Giza Plateau and the comparatively unregulated interior access.</string>
+    <string name="ValleyoftheKings">The Valley of the Kings is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, tombs were constructed for the kings and privileged nobles of the New Kingdom. The valley contains 63 tombs and chambers, ranging in size from a simple pit to a complex tomb with over 120 chambers.</string>
+    <string name="AbuSimbel">Abu Simbel is an archaeological site comprising two massive rock temples in southern Egypt on the western bank of Lake Nasser. The twin temples were originally carved out of the mountainside during the reign of Pharaoh Ramesses The Great in the 13th century BC, as a lasting monument to himself and his queen Nefertari.</string>
+    <string name="Karnak">Although badly ruined, few sites in Egypt are more impressive than Karnak. It is the largest ancient religious site in the world, and represents the combined achievement of many generations of Egyptian builders. Most of the work on Karnak was done by the pharaohs of the New Kingdom (1570-1100 BC).</string>
+    <string name="PyramidsofGiza">The Giza necropolis, situated in the immediate vicinity of the southwestern suburbs of Cairo is home to the most famous ancient Egyptian monuments. The pyramids in Giza were built over the span of three generations – by Khufu, his second reigning son Khafre, and Menkaure. The Great Pyramid of Khufu is the oldest and sole remnant of the Seven Wonders of the Ancient World.</string>
+
+    <string name="zitouni">1089 Corniche El Nil, Cairo, Cairo Governorate 11519</string>
+    <string name="zitounidesc">For late night cravings - cozy place</string>
+    <string name="zitouniphone">phone number : 02 27917000</string>
+    
+    <string name="seqouia">53 Abou El Feda, Zamalek, Cairo, 11211</string>
+    <string name="seqouiadesc">Middle Eastern Food - Comfy Place</string>
+    <string name="seqouiaphone">02 27350014</string>
+
+    <string name="studiomasr">9 The River St, Zamalik, Cairo</string>
+    <string name="studiomasrdesc">Grilled Food - Barbecues - Drinks</string>
+    <string name="studiomasrPhone">02 27353084</string>
+    
+    <string name="sachi">3 Cleopatra St. Korba</string>
+    <string name="sachidesc">For Groups - Amazing Cocktails - Comfy Place</string>
+    <string name="sachphone">0128 090 2028</string>
+    
+    <string name="rosini">66 Omar Ibn Elkhtab St, Heliopolis, Cairo</string>
+    <string name="rosinidesc">Sea Food - Comfy Place - Amazing Cocktails</string>
+    <string name="rosiniphone">02 22918282</string>
+
+    <string name="lepacha">Mert Bacha St, Kasr El Niel, Cairo</string>
+    <string name="lepachadesc">In the Middle of the Nile River - Comfy Place </string>
+    <string name="lepachaphone">02 27356730</string>
+</resources>

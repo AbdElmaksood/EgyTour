@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?android:attr/selectableItemBackground"
+    >
+
+    <Button
+        android:id="@+id/beaches_button"
+        style="@style/category_style"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/beach"
+        android:text="@string/beaches" />
+
+    <Button
+        android:id="@+id/restaurants_button"
+        style="@style/category_style"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/restaurant"
+        android:text="@string/restaurants" />
+
+    <Button
+        android:id="@+id/monuments_button"
+        style="@style/category_style"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/monuments"
+        android:text="@string/monuments" />
+
+    <Button
+        android:id="@+id/cafes_button"
+        style="@style/category_style"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/cafe"
+        android:text="@string/cafe" />
+
+
+</LinearLayout>
